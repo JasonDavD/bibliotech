@@ -1,10 +1,12 @@
 package pe.edu.cibertec.bibliotech.api.response;
 
-import lombok.Data;
 import java.time.LocalDate;
+
+import lombok.Data;
 
 @Data
 public class PrestamoResponseDto {
+    
     private Long id;
     private Long libroId;
     private String libroTitulo;
