@@ -130,7 +130,7 @@
                     <source>17</source>
                     <target>17</target>
                     <annotationProcessorPaths>
-                        <!-- MapStruct Processor (DEBE IR PRIMERO) -->
+                        <!-- MapStruct Processor -->
                         <path>
                             <groupId>org.mapstruct</groupId>
                             <artifactId>mapstruct-processor</artifactId>
